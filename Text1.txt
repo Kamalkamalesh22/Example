@@ -1,1 +1,1 @@
-Text1.txt
+This is same as Text2.txt
